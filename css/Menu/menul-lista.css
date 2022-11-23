@@ -1,0 +1,32 @@
+.menu__lista {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+   
+   
+}
+@media screen and (min-width: 0) {
+    .menu__lista {
+        flex-direction: column;
+        row-gap: 1rem;
+        justify-content: center !important;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .menu__lista {
+        margin-left: 13%;
+    }
+}
+
+
+
+@media screen and (min-width: 922px) {
+    .menu__lista {
+       
+        flex-direction: row;
+        right: 0rem;
+        left: 5rem;
+    }
+}

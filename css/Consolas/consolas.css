@@ -1,0 +1,26 @@
+.consolas {
+   
+    display: flex;
+    
+}
+
+@media screen and (min-width: 0) {
+    .consolas {
+        padding: 3rem 0 0 1rem;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .consolas {
+        padding: 3rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .consolas {
+        padding: 0rem 0 0 1rem;
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+}

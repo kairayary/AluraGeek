@@ -1,0 +1,8 @@
+.consola__boton {
+    background:#3a58e1;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,40 @@
+.producto {
+    
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+    transition: .3s;
+	box-shadow: 4px 4px 4px #CCC;
+    cursor: pointer;
+}
+
+.producto__imagen {
+    height: 160px;
+    box-shadow: 4px 4px 4px #CCC; 
+}
+
+.producto:hover {
+	box-shadow: 8px 8px 8px #CCC;
+}
+
+@media screen and (min-width: 0) {
+    .producto {
+        margin-right: 1rem;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .producto {
+        margin-right: 1.5rem;
+        width: calc(33% - 1.7rem);
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .producto {
+         margin-right: 1.1rem; 
+         width: calc(25% - 6rem);
+         box-shadow: 4px 4px 4px #ccc;
+    }
+}

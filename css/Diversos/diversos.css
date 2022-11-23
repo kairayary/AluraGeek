@@ -1,0 +1,51 @@
+.diversos {
+    
+    display: flex;
+    
+}
+
+@media screen and (min-width: 0) {
+    .diversos {
+        padding: 3rem 0 0 1rem;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .diversos {
+        padding: 3rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .diversos {
+        padding: 0rem 0 0 1rem;
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+}
+/* .diversos {
+   
+    display: flex;
+    
+}
+
+@media screen and (min-width: 0) {
+    .diversos {
+        padding: 3rem 0 0 1rem;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .diversos {
+        padding: 3rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .diversos {
+        padding: 0rem 0 0 1rem;
+        flex-wrap: nowrap;
+    }
+} */

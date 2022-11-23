@@ -1,0 +1,36 @@
+.banner__subtitulo{
+    color: #fdfdfd;
+    font-family: Pacifico, cursive;
+    position: absolute;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    top: 65%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    
+}
+
+@media screen and (min-width: 0) {
+    .banner__subtitulo{
+        font-size: 1.3rem;
+        left: 50%;
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .banner__subtitulo {
+        font-size: 1rem;
+        left: 50%;
+        margin-top: 8%;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .banner__subtitulo {
+        padding: 0rem 0 0 1rem;
+        font-size: 1.3rem;
+        left: 22%;
+        top: 48%;
+        width: 100%;
+    }
+}

@@ -1,0 +1,31 @@
+.banner__boton {
+    background: #3a58e1;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    cursor: pointer;
+   
+}
+
+@media screen and (min-width: 0) {
+    .banner__boton {
+        margin-top: 100%;
+        margin-left: 35%;
+       
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .banner__boton {
+        margin-top: 47%;
+        margin-left: 41%;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .banner__boton{
+        margin-top: 26%;
+        margin-left: 5%;
+    }
+}

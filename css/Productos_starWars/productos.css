@@ -1,0 +1,25 @@
+.productos {
+   
+    display: flex;
+    
+}
+
+@media screen and (min-width: 0) {
+    .productos {
+        padding: 3rem 0 0 1rem;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .productos {
+        padding: 3rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .productos {
+        padding: 0rem 0 0 1rem;
+        flex-wrap: nowrap;
+    }
+}
