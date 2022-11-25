@@ -1,0 +1,125 @@
+{
+    "producto": [
+      {
+        "name": "Tasa Stromtrooper",
+        "imageUrl": "https://i.ibb.co/LkCFgMZ/producto1.png",
+        "price": "$20.00",
+        "id": 1
+      },
+      {
+        "name": "Muñeco DarkVader",
+        "imageUrl": "https://i.ibb.co/Bssjk0Y/producto2.png",
+        "price": "$25.00",
+        "id": 2
+       
+      },
+      {
+        "name": "Juguete Muñeco Yoda",
+        "imageUrl": "https://i.ibb.co/FW8dSg2/producto3.png",
+        "price": "$35.00",
+        "id": 3
+      },
+      {
+        "name": "Soldado Stromtroope",
+        "imageUrl": "https://i.ibb.co/JmcW8cK/producto4.png",
+        "price": "$45.00",
+        "id": 4
+        
+      },
+      {
+        "name": "Soldado Stromtroope",
+        "imageUrl": "https://i.ibb.co/VJhLG7j/producto5.png",
+        "price": "$25.00",
+        "id": 5
+      },
+      {
+        "name": "Soldado Stromtroope",
+        "imageUrl": "https://i.ibb.co/1XyD0gf/producto6.png",
+        "price": "$40.00",
+        "id": 6
+      }
+  
+    ],
+    "consola": [
+        {
+          "name": "Mando Consola Blanco",
+          "imageUrl": "https://i.ibb.co/X5TsxyC/consola1.png",
+          "price": "$200.00",
+          "id": 7
+        },
+        {
+          "name": "Consola + Mando",
+          "imageUrl": "https://i.ibb.co/GPK1GCf/consola2.png",
+          "price": "$1220.00",
+          "id": 8
+         
+        },
+        {
+          "name": "Consola Classic Nintendo",
+          "imageUrl": "https://i.ibb.co/pj8KbSV/consola3.png",
+          "price": "$800.00",
+          "id": 9
+        },
+        {
+          "name": "Mandos de Consola Color",
+          "imageUrl": "https://i.ibb.co/Qj2SR7x/consola4.png",
+          "price": "$420.00",
+          "id": 10
+          
+        },
+        {
+          "name": "Mandos de Consola Color",
+          "imageUrl": "https://i.ibb.co/K5j1QgG/consola5.png",
+          "price": "$220.00",
+          "id": 11
+        },
+        {
+          "name": "Mandos de Consola Classic",
+          "imageUrl": "https://i.ibb.co/wJCtz2w/consola6.png",
+          "price": "$300.00",
+          "id": 12
+        }
+    
+      ],
+    "diverso": [
+        {
+          "name": "Camisa Atari",
+          "imageUrl": "https://i.ibb.co/ZXkQ2cx/diverso1.png",
+          "price": "$25.00",
+          "id": 13
+        },
+        {
+          "name": "Camisa Gamer",
+          "imageUrl": "https://i.ibb.co/54R2LNg/diverso2.png",
+          "price": "$40.00",
+          "id": 14
+          
+        },
+        {
+          "name": "Muñeco Sonic",
+          "imageUrl": "https://i.ibb.co/FVC8CdW/diverso3.png",
+          "price": "$420.00",
+          "id": 15
+        },
+        {
+          "name": "Radio Alarma",
+          "imageUrl": "https://i.ibb.co/xM3K2JB/diverso4.png",
+          "price": "$170.00",
+          "id": 16
+        },
+        {
+          "name": "Lentes Gamer",
+          "imageUrl": "https://i.ibb.co/F8rYYFn/diverso5.png",
+          "price": "$1020.00",
+          "id": 17
+        },
+        {
+          "name": "Peluche Picachu",
+          "imageUrl": "https://i.ibb.co/yqBp4Xv/diverso6.png",
+          "price": "$60.00",
+          "id": 18
+        }
+    
+      ]
+
+  }
